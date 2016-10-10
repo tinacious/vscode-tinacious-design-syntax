@@ -1,0 +1,22 @@
+{
+    "name": "theme-tinaciousdesign",
+    "displayName": "Theme-TinaciousDesign ",
+    "description": "Dark theme with fun colours",
+    "version": "0.0.1",
+    "publisher": "tinaciousdesign",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Tinacious Design",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Tinacious-Design.tmTheme"
+            }
+        ]
+    }
+}

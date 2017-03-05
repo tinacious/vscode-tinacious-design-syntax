@@ -21,7 +21,7 @@ This syntax theme is now available in both dark and light variations.
 
 ## Changelog
 
-| Date        | Version | Change                                        |
-|:------------|:--------|:----------------------------------------------|
-| 5 Mar 2017  | 0.2.0   | Added the Tinacious Design Light syntax theme |
-| 10 Oct 2016 | 0.1.0   | Initial release                               |
+| Date        | Version | Change                                                                                             |
+|:------------|:--------|:---------------------------------------------------------------------------------------------------|
+| 5 Mar 2017  | 0.2.0   | Added the Tinacious Design Light syntax theme. Increased contrast of current line & selected text. |
+| 10 Oct 2016 | 0.1.0   | Initial release                                                                                    |

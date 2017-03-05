@@ -7,24 +7,24 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Tinacious Design</string>
+	<string>Tinacious Design (Light)</string>
 	<key>settings</key>
 	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#1D1D26</string>
+				<string>#f8f8ff</string>
 				<key>caret</key>
-				<string>#B3B3D4</string>
+				<string>#44425e</string>
 				<key>foreground</key>
-				<string>#B3B3D4</string>
+				<string>#44425e</string>
 				<key>invisibles</key>
-				<string>#1D1D27</string>
+				<string>#D9D8EC</string>
 				<key>lineHighlight</key>
-				<string>#36364d</string>
+				<string>#eae9ff</string>
 				<key>selection</key>
-				<string>#454562</string>
+				<string>#dbdaff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -35,7 +35,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#535172</string>
+				<string>#A09BB3</string>
 			</dict>
 		</dict>
 		<dict>
@@ -46,7 +46,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFCC66</string>
+				<string>#FFAA00</string>
 			</dict>
 		</dict>
 		<dict>
@@ -127,7 +127,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#00BFFF</string>
+				<string>#00AEE8</string>
 			</dict>
 		</dict>
 		<dict>
@@ -179,7 +179,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#FFCC66</string>
+				<string>#FFAA00</string>
 			</dict>
 		</dict>
 		<dict>
@@ -244,7 +244,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#00BFFF</string>
+				<string>#00AEE8</string>
 			</dict>
 		</dict>
 		<dict>
@@ -288,11 +288,11 @@
 		</dict>
 	</array>
 	<key>uuid</key>
-	<string>D8D5E82E-3D5B-46B5-B38E-8C841C21347D</string>
+	<string>D8D5E82E-3D5B-46B5-B38E-8C841C21347D2</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.dark.tinaciousdesign</string>
+	<string>theme.light.tinacious_design_light</string>
 	<key>author</key>
 	<string>Tina Holly</string>
 </dict>

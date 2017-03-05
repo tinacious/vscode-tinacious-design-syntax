@@ -1,8 +1,8 @@
 {
     "name": "theme-tinaciousdesign",
     "displayName": "Theme-TinaciousDesign ",
-    "description": "Dark theme with fun colours",
-    "version": "0.1.1",
+    "description": "A dark theme and a light theme with fun colours",
+    "version": "0.2.0",
     "publisher": "tinaciousdesign",
     "repository": "https://github.com/tinacious/vscode-tinacious-design-syntax",
     "engines": {
@@ -17,6 +17,11 @@
                 "label": "Tinacious Design",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Tinacious-Design.tmTheme"
+            },
+            {
+                "label": "Tinacious Design (Light)",
+                "uiTheme": "vs",
+                "path": "./themes/Tinacious-Design-Light.tmTheme"
             }
         ]
     }

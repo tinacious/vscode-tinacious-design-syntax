@@ -14,10 +14,23 @@ This syntax theme is now available in both dark and light variations.
 
 ![dark syntax theme tinacious design](images/tinacious-syntax-theme-vscode-dark.png)
 
-## Light
+
+### Light
 
 ![light syntax theme tinacious design](images/tinacious-light-syntax-theme-vscode.png)
 
+
+## Git integration
+
+The default Git diff styling doesn't work well with this theme, especially for comment colours. In order to modify the diff colours, add the following snippet to your user settings:
+
+```json
+// Diff themeing for Tinacious Design theme
+"workbench.colorCustomizations": {
+  "diffEditor.insertedTextBackground": "#00D3641A",
+  "diffEditor.removedTextBackground": "#FF339933"
+}
+```
 
 ## Changelog
 

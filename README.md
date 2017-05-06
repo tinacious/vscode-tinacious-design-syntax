@@ -32,6 +32,8 @@ The default Git diff styling doesn't work well with this theme, especially for c
 }
 ```
 
+![Screenshot of diff theme](https://cloud.githubusercontent.com/assets/1856992/25773217/e5706fdc-3247-11e7-81a6-5e2f45d49e4a.png)
+
 ## Changelog
 
 | Date        | Version | Change                                                                                             |

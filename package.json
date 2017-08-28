@@ -16,12 +16,12 @@
             {
                 "label": "Tinacious Design",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Tinacious-Design.tmTheme"
+                "path": "./themes/Tinacious-Design.json"
             },
             {
                 "label": "Tinacious Design (Light)",
                 "uiTheme": "vs",
-                "path": "./themes/Tinacious-Design-Light.tmTheme"
+                "path": "./themes/Tinacious-Design-Light.json"
             }
         ]
     }

@@ -26,6 +26,13 @@ This syntax theme is available in both dark and light variations.
 
 ### Dark
 
+#### Sidebar
+
+![dark syntax theme tinacious design - sidebar styles](images/tinacious-design-syntax-sidebar-hover.png)
+
+
+#### Editor
+
 ![dark syntax theme tinacious design](images/tinacious-syntax-theme-vscode-dark.png)
 
 

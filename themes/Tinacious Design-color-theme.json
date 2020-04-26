@@ -394,7 +394,7 @@
     "editorWhitespace.foreground": "#1D1D27",
     "editor.lineHighlightBackground": "#2c2c3e",
     "editor.selectionForeground": "#ffffff",
-    "editor.selectionBackground": "#ff339951",
+    "editor.selectionBackground": "#ff339933",
     "editorHoverWidget.background": "#2a2a38",
     "editorHoverWidget.border": "#ff339933",
     "editorIndentGuide.activeBackground": "#ff339944",

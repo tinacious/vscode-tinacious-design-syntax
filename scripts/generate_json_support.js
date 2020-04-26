@@ -1,9 +1,21 @@
-const colours = require('./colors.json').colours;
-
 const prefix = 'source.json'
 const structure = 'meta.structure.dictionary.json';
 const value = 'meta.structure.dictionary.value.json';
 const suffix = 'support.type.property-name.json';
+
+const colours = [
+  "#FE3698", // pink
+  "#FF7086", // orangey pink
+  "#ffb070", // orange
+  "#FCCC66", // yellow
+  "#BBCE65", // yellowy green
+  "#59D065", // green
+  "#00D095", // greenish turquoise
+  "#00CECA", // turquoise
+  "#41B6DC", // blue
+  "#8590EC", // indigo
+  "#C968FE", // purple
+];
 
 const buildScope = (level) => {
   let repeated = [];

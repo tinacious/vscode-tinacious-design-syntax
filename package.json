@@ -5,6 +5,9 @@
   "version": "2.0.2",
   "publisher": "tinaciousdesign",
   "repository": "https://github.com/tinacious/vscode-tinacious-design-syntax",
+  "scripts": {
+    "json": "node ./scripts/generate_json_support.js"
+  },
   "engines": {
     "vscode": "^1.5.0"
   },

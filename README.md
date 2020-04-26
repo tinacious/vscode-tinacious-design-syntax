@@ -31,26 +31,33 @@ This syntax theme is available in both dark and light variations.
 
 ### Dark
 
-#### Editor
+#### JSON
 
-##### Markdown
+![dark syntax theme tinacious design](images/support-json-dark.png)
+
+
+#### Markdown
 
 ![dark syntax theme tinacious design](images/markdown-support.png)
 
 
-##### JavaScript
+#### JavaScript
 
 ![dark syntax theme tinacious design](images/tinacious-syntax-theme-vscode-dark.png)
 
 
-#### Sidebar
-
-![dark syntax theme tinacious design - sidebar styles](images/tinacious-design-syntax-sidebar-hover.png)
-
 
 ### Light
 
+#### JSON
+
+![light syntax theme tinacious design](images/support-json-light.png)
+
+
+#### JavaScript
+
 ![light syntax theme tinacious design](images/tinacious-light-syntax-theme-vscode.png)
+
 
 
 ## Changelog

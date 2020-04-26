@@ -7,7 +7,7 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Tinacious Design (Legacy, High Contrast)</string>
+	<string>Tinacious Design (High Contrast) (legacy, 2016)</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -24,13 +24,13 @@
 				<key>lineHighlight</key>
 				<string>#151515</string>
 				<key>selection</key>
-				<string>#7c79ac</string>
+				<string>#3c3c53</string>
 				<key>rangeHighlight</key>
-				<string>#151515</string>
+				<string>#2b2646</string>
 				<key>findMatchHighlight</key>
-				<string>#333333</string>
+				<string>#302a4e</string>
 				<key>currentFindMatchHighlight</key>
-				<string>#640DE8</string>
+				<string>#7929ae</string>
 			</dict>
 		</dict>
 		<dict>
@@ -41,7 +41,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#504E6E</string>
+				<string>#9594B3</string>
 			</dict>
 		</dict>
 		<dict>
@@ -130,7 +130,7 @@
 			<string>storage.type</string>
 			<key>settings</key>
 			<dict>
-        <key>fontStyle</key>	
+        <key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
 				<string>#00BFFF</string>
@@ -144,7 +144,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string> underline</string>
+				<string>underline</string>
 				<key>foreground</key>
 				<string>#00D364</string>
 			</dict>
@@ -157,7 +157,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string> italic underline</string>
+				<string>italic underline</string>
 				<key>foreground</key>
 				<string>#00D364</string>
 			</dict>
@@ -183,7 +183,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string> italic</string>
+				<string>italic</string>
 				<key>foreground</key>
 				<string>#FFCC66</string>
 			</dict>
@@ -248,7 +248,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string> italic</string>
+				<string>italic</string>
 				<key>foreground</key>
 				<string>#00BFFF</string>
 			</dict>
@@ -298,7 +298,7 @@
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.dark.tinaciousdesign_legacy_high_contrast</string>
+	<string>theme.dark.tinacious_design_high_contrast</string>
 	<key>author</key>
 	<string>Tina Holly</string>
 </dict>

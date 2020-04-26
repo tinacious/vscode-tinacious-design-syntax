@@ -2,7 +2,7 @@
   "name": "theme-tinaciousdesign",
   "displayName": "Tinacious Design theme",
   "description": "🌈 A dark theme and a light theme with fun colours.",
-  "version": "2.2.3",
+  "version": "2.2.4",
   "publisher": "tinaciousdesign",
   "repository": "https://github.com/tinacious/vscode-tinacious-design-syntax",
   "scripts": {

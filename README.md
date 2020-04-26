@@ -26,6 +26,8 @@ Colours curated by Web and Mobile designer and developer Tina from [Tinacious De
 - Sidebar styles
 - Status bar styles
 
+The screenshots below are of the new theme. For legacy theme styles, see [this historical readme](https://github.com/tinacious/vscode-tinacious-design-syntax/tree/3758ccde534b40f80e869100bdfdcd657ec2f5a0).
+
 
 ## Dark
 

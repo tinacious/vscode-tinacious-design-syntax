@@ -2,7 +2,7 @@
   "name": "theme-tinaciousdesign",
   "displayName": "Tinacious Design theme",
   "description": "🌈 A dark theme and a light theme with fun colours.",
-  "version": "2.2.2",
+  "version": "2.2.3",
   "publisher": "tinaciousdesign",
   "repository": "https://github.com/tinacious/vscode-tinacious-design-syntax",
   "scripts": {
@@ -15,8 +15,7 @@
     "Themes"
   ],
   "contributes": {
-    "themes": [
-      {
+    "themes": [{
         "label": "Tinacious Design",
         "uiTheme": "vs-dark",
         "path": "/themes/Tinacious Design-color-theme.json"
@@ -25,6 +24,16 @@
         "label": "Tinacious Design (Light)",
         "uiTheme": "vs",
         "path": "./themes/Tinacious Design (Light)-color-theme.json"
+      },
+      {
+        "label": "Tinacious Design (legacy, 2016)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Tinacious-Design.tmTheme"
+      },
+      {
+        "label": "Tinacious Design (Light)  (legacy, 2017)",
+        "uiTheme": "vs",
+        "path": "./themes/Tinacious-Design-Light.tmTheme"
       }
     ]
   },

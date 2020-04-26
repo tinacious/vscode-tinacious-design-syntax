@@ -4,6 +4,8 @@
 
 **Tinacious Design Syntax** is a syntax theme that uses a bright palette of colours including pink, blue, turquoise, green, purple, and orange.
 
+This syntax theme is available in both dark and light variations.
+
 Install it from the [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=tinaciousdesign.theme-tinaciousdesign) marketplace today.
 
 
@@ -25,40 +27,62 @@ Colours curated by Web and Mobile designer and developer Tina from [Tinacious De
 - Status bar styles
 
 
-## Variations
+## Dark
 
-This syntax theme is available in both dark and light variations.
+### JSON
 
-
-### Dark
-
-#### JSON
-
-![dark syntax theme tinacious design](images/support-json-dark.png)
+![](images/json-36-dark.png)
 
 
-#### Markdown
+### JavaScript
 
-![dark syntax theme tinacious design](images/markdown-support.png)
+![](images/javascript-dark-2.png)
 
-
-#### JavaScript
-
-![dark syntax theme tinacious design](images/tinacious-syntax-theme-vscode-dark.png)
+![](images/javascript-dark.png)
 
 
+### Markdown
 
-### Light
-
-#### JSON
-
-![light syntax theme tinacious design](images/support-json-light.png)
+![](images/markdown-dark.png)
 
 
-#### JavaScript
+### Ruby
 
-![light syntax theme tinacious design](images/tinacious-light-syntax-theme-vscode.png)
+![](images/ruby-dark.png)
 
+
+### Git
+
+![](images/git-dark.png)
+
+
+## Light
+
+### JSON
+
+![](images/json-36-light.png)
+
+
+### JavaScript
+
+![](images/javascript-light-2.png)
+
+![](images/javascript-light.png)
+
+
+### Markdown
+
+![](images/markdown-light.png)
+
+
+### Ruby
+
+![](images/ruby-light.png)
+
+
+### Git
+
+![](images/git-light.png)
 
 
 ## Changelog

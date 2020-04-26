@@ -17,16 +17,15 @@
   "contributes": {
     "themes": [
       {
-        "label": "Tinacious Design (Light)",
-        "uiTheme": "vs",
-        "path": "./themes/Tinacious Design (Light)-color-theme.json"
-      },
-      {
         "label": "Tinacious Design",
         "uiTheme": "vs-dark",
         "path": "/themes/Tinacious Design-color-theme.json"
+      },
+      {
+        "label": "Tinacious Design (Light)",
+        "uiTheme": "vs",
+        "path": "./themes/Tinacious Design (Light)-color-theme.json"
       }
-
     ]
   },
   "icon": "icon.png",

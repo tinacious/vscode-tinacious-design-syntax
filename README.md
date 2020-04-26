@@ -2,13 +2,24 @@
 
 **Tinacious Design Syntax** is a syntax theme that uses a bright palette of colours including pink, blue, turquoise, green, purple, and orange.
 
+**This is the original Tinacious Design Syntax colour theme.**
+
 ![](https://raw.githubusercontent.com/tinacious/vscode-tinacious-design-syntax/master/images/tinacious-design-syntax-swatches.png)
 
 Colours curated by Web and Mobile designer and developer Tina from [Tinacious Design](http://tinaciousdesign.com).
 
+
+## Features
+
+- Dark theme
+- Light theme
+- Markdown support
+- Git diff support
+
+
 ## Variations
 
-This syntax theme is now available in both dark and light variations.
+This syntax theme is available in both dark and light variations.
 
 ### Dark
 
@@ -19,20 +30,6 @@ This syntax theme is now available in both dark and light variations.
 
 ![light syntax theme tinacious design](images/tinacious-light-syntax-theme-vscode.png)
 
-
-## Git integration
-
-The default Git diff styling doesn't work well with this theme, especially for comment colours. In order to modify the diff colours, add the following snippet to your user settings:
-
-```json
-// Diff themeing for Tinacious Design theme
-"workbench.colorCustomizations": {
-  "diffEditor.insertedTextBackground": "#00D3641A",
-  "diffEditor.removedTextBackground": "#FF339933"
-}
-```
-
-![Screenshot of diff theme](https://cloud.githubusercontent.com/assets/1856992/25773217/e5706fdc-3247-11e7-81a6-5e2f45d49e4a.png)
 
 ## Changelog
 

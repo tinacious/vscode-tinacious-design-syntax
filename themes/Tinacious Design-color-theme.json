@@ -21,15 +21,6 @@
         "foreground": "#FFCC66"
       }
     },
-    // Markdown
-    {
-      "name": "markup.bold.markdown",
-      "scope": "markup.bold.markdown",
-      "settings": {
-        "foreground": "#fff",
-        "fontStyle": "bold"
-      }
-    },
     // Generated JSON - START
     {
       "name": "JSON Key - Level 0",
@@ -131,6 +122,15 @@
       }
     },
     // Generated JSON - END
+    // Markdown
+    {
+      "name": "markup.bold.markdown",
+      "scope": "markup.bold.markdown",
+      "settings": {
+        "foreground": "#fff",
+        "fontStyle": "bold"
+      }
+    },
     {
       "name": "[VSCODE-CUSTOM] Markdown Link Title/Description",
       "scope": "string.other.link.title.markdown,string.other.link.description.markdown",

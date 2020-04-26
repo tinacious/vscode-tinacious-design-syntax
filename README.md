@@ -27,7 +27,7 @@ Colours curated by Web and Mobile designer and developer Tina from [Tinacious De
 
 - Dark themes! 🌚
 - Light themes! 🌝
-- 5 themes! 2 new ones, 2 original ones, and 1 high-contrast mod of the original dark
+- 5 themes! 2 new ones, 2 original ones, and 1 **WCAG 2.0 AA compliant** high-contrast mod of the original dark
 - JSON support (36 levels of love 🌈)
 - Markdown support
 - Git diff support
@@ -95,10 +95,27 @@ The screenshots below are of the new theme. For legacy theme styles, see [this h
 ![](images/git-light.png)
 
 
+## High-Contrast (Dark) – WCAG 2.0 AA compliant
+
+The theme colours offered in the high-contrast theme have been run through [the Web Accessibility in Mind Contrast Checker tool](https://webaim.org/resources/contrastchecker/) to verify colour contrast requirements for small text as per the WCAG 2.0 AA accessibility guidelines.
+
+This theme is built off of the legacy dark theme and therefore does not offer the additional JSON and Markdown support.
+
+Thanks to [poteto](https://github.com/poteto) for highlighting this oversight and collaborating on the high-contrast mod. 🚀
+
+I've verified the colour combinations using the tool above but if I've missed anything and you've found any contrast issues, please [comment on this issue](https://github.com/tinacious/vscode-tinacious-design-syntax/issues/12) so I can re-open it or create a new one.
+
+![A screenshot of contrast display for searching](images/high-contrast-search.png)
+
+![A screenshot to show contrast display for selected text](images/high-contrast-selection.png)
+
+
+
 ## Changelog
 
 | Date        | Version | Change                                                                                             |
 |:------------|:--------|:---------------------------------------------------------------------------------------------------|
+| 26 Apr 2020 | 2.3.0   | Added high-contrast WCAG 2.0 AA compliant syntax colour theme                                      |
 | 26 Apr 2020 | 2.2.0   | Now with even **more** rainbow JSON! 36 levels.   🌈🌈🌈                                              |
 | 26 Apr 2020 | 2.1.0   | Add support for 11 levels of nested rainbow JSON! 🌈                                                |
 | 25 Apr 2020 | 2.0.0   | Add support for Markdown and Git. Sidebar and status bar design.                                   |

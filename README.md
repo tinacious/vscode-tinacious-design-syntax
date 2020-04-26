@@ -4,6 +4,9 @@
 
 **Tinacious Design Syntax** is a syntax theme that uses a bright palette of colours including pink, blue, turquoise, green, purple, and orange.
 
+Install it from the [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=tinaciousdesign.theme-tinaciousdesign) marketplace today.
+
+
 **This is the original Tinacious Design Syntax colour theme.**
 
 ![](images/tinacious-design-syntax-swatches.png)

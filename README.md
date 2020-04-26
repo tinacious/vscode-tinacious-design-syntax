@@ -1,6 +1,6 @@
 # Tinacious Design syntax
 
-![](icon.svg)
+![](icon.png)
 
 **Tinacious Design Syntax** is a syntax theme that uses a bright palette of colours including pink, blue, turquoise, green, purple, and orange.
 

@@ -18,6 +18,10 @@
 				// "foreground": "#6b6891"
 			}
 		},
+
+
+
+
 		{
 			"name": "String",
 			"scope": "string",
@@ -185,25 +189,27 @@
 		"activityBarBadge.background": "#a01d5f",
 		"activityBarBadge.foreground": "#ffffff",
 
-		// "diffEditor.insertedTextBackground": "#00809b33",
 		"diffEditor.insertedTextBackground": "#05786797",
-		// "diffEditor.insertedTextBackground": "#197f60",
+		"diffEditor.removedTextBackground": "#b12350dd",
 
-		"diffEditor.removedTextBackground": "#b12350ee",
-
-		// "badge.background": "",
-    // "button.background": "",
+		"editorCursor.foreground": "#f39",
+		// "editorCursor.foreground": "#B3B3D4",
 
 		"editor.background": "#1D1D26",
-		"editorCursor.foreground": "#B3B3D4",
+
+		"editor.findMatchBackground": "#ff339922",
+    "editor.findMatchBorder": "#ff3399",
+    "editor.findMatchHighlightBackground": "#00BFFF55",
+
 		"editor.foreground": "#B3B3D4",
 		"editorWhitespace.foreground": "#1D1D27",
 		"editor.lineHighlightBackground": "#2c2c3e",
 		"editor.selectionForeground": "#ffffff",
 		"editor.selectionBackground": "#ff339951",
-		// "editor.selectionBackground": "#35354c",
-		// "editor.selectionBackground": "#252536",
-		// "editor.selectionBackground": "#ff00dd",
+
+		// Indentation lines
+		"editorIndentGuide.activeBackground": "#ff339944",
+    "editorIndentGuide.background": "#2d2d3c99",
 
 	}
 }

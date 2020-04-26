@@ -1,6 +1,6 @@
 {
   "name": "theme-tinaciousdesign",
-  "displayName": "Theme-TinaciousDesign ",
+  "displayName": "Tinacious Design theme",
   "description": "A dark theme and a light theme with fun colours",
   "version": "2.0.0",
   "publisher": "tinaciousdesign",
@@ -24,6 +24,7 @@
       }
     ]
   },
+  "icon": "icon.png",
   "devDependencies": {
     "generator-code": "^1.2.12",
     "yo": "^3.1.1"

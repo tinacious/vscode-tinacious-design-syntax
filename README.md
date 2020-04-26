@@ -1,4 +1,6 @@
-![Tinacious Design Syntax](images/tinacious-design-syntax-bg-white.png)
+# Tinacious Design syntax
+
+![](icon.svg)
 
 **Tinacious Design Syntax** is a syntax theme that uses a bright palette of colours including pink, blue, turquoise, green, purple, and orange.
 

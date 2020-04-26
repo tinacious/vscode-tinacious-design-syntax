@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="520px" height="520px" viewBox="0 0 520 520" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!--Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch-->
+  <title>
+    Tinacious Design syntax theme - tinaciousdesign.com
+  </title>
+  <desc>
+    Created by tinaciousdesign.com
+  </desc>
+  <defs/>
+  <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="Artboard">
+      <circle id="Oval" stroke="#FF3399" stroke-width="16" fill="#1D1D26" cx="260" cy="260" r="248"/>
+      <rect id="Rectangle" fill="#00BFFF" x="61" y="189" width="263.3125" height="29.5703125" rx="8"/>
+      <rect id="Rectangle-Copy-4" fill="#FF3399" x="128" y="133" width="263.3125" height="29.5703125" rx="8"/>
+      <rect id="Rectangle-Copy" fill="#FFCC66" x="193" y="245" width="263.3125" height="29.5703125" rx="8"/>
+      <rect id="Rectangle-Copy-2" fill="#00CED1" x="61" y="301" width="263.3125" height="29.5703125" rx="8"/>
+      <rect id="Rectangle-Copy-3" fill="#CC66FF" x="128" y="357" width="263.3125" height="29.5703125" rx="8"/>
+    </g>
+  </g>
+</svg>

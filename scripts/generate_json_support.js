@@ -4,18 +4,26 @@ const value = 'meta.structure.dictionary.value.json';
 const suffix = 'support.type.property-name.json';
 
 const colours = [
+  // Tileable Rainbow starting at blue
+  "#00CECA", // turquoise/blue
+  "#00BFFF", // blue
+  "#8590EC", // indigo
   "#FE3698", // pink
   "#FF7086", // orangey pink
   "#ffb070", // orange
   "#FCCC66", // yellow
   "#BBCE65", // yellowy green
   "#59D065", // green
-  "#00D095", // greenish turquoise
-  "#00CECA", // turquoise
-  "#41B6DC", // blue
-  "#8590EC", // indigo
-  "#C968FE", // purple
 ];
+
+// Supporting 4 rainbows. If you need more than that, I'm sorry on so many levels. 🙃
+const supportedColours = (
+  [].concat(colours)
+    .concat(colours)
+    .concat(colours)
+    .concat(colours)
+);
+
 
 const buildScope = (level) => {
   let repeated = [];
@@ -31,7 +39,7 @@ const buildScope = (level) => {
   return [prefix].concat(repeated).concat(suffix).join(' ');
 };
 
-const results = colours.map((colour, i) => ({
+const results = supportedColours.map((colour, i) => ({
   name: `JSON Key - Level ${i}`,
   scope: [buildScope(i)],
   settings: {

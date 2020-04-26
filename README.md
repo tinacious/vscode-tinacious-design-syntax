@@ -11,7 +11,7 @@ Install it from the [Visual Studio Code](https://marketplace.visualstudio.com/it
 
 ![](images/tinacious-design-syntax-swatches.png)
 
-Colours curated by Web and Mobile designer and developer Tina from [Tinacious Design](http://tinaciousdesign.com).
+Colours curated by Web and Mobile designer and developer Tina from [Tinacious Design](http://tinaciousdesign.com). You can read more about the theme [here](https://tinaciousdesign.com/portfolio/visual-studio-code-theme/).
 
 
 ## Features

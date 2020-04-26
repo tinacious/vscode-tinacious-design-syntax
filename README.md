@@ -89,8 +89,8 @@ Colours curated by Web and Mobile designer and developer Tina from [Tinacious De
 
 | Date        | Version | Change                                                                                             |
 |:------------|:--------|:---------------------------------------------------------------------------------------------------|
-| 26 Apr 2020 | 2.1.0   | Add support for 11 levels of nested rainbow JSON! 🌈                                                |
-| 26 Apr 2020 | 2.2.0   | Now with even **more** rainbow JSON! 35 levels.  🌈                                                 |
+| 26 Apr 2020 | 2.1.0   | Now with even **more** rainbow JSON! 36 levels.   🌈🌈🌈                                              |
+| 26 Apr 2020 | 2.2.0   | Add support for 11 levels of nested rainbow JSON! 🌈                                                |
 | 25 Apr 2020 | 2.0.0   | Add support for Markdown and Git. Sidebar and status bar design.                                   |
 | 5 Mar 2017  | 0.2.0   | Added the Tinacious Design Light syntax theme. Increased contrast of current line & selected text. |
 | 10 Oct 2016 | 0.1.0   | Initial release                                                                                    |

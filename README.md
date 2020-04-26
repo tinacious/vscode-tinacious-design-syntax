@@ -15,11 +15,14 @@ Colours curated by Web and Mobile designer and developer Tina from [Tinacious De
 - Light theme
 - Markdown support
 - Git diff support
+- Sidebar styles
+- Status bar styles
 
 
 ## Variations
 
 This syntax theme is available in both dark and light variations.
+
 
 ### Dark
 
@@ -35,5 +38,6 @@ This syntax theme is available in both dark and light variations.
 
 | Date        | Version | Change                                                                                             |
 |:------------|:--------|:---------------------------------------------------------------------------------------------------|
+| 25 Apr 2020 | 2.0.0   | Add support for Markdown and Git. Sidebar and status bar design.                                   |
 | 5 Mar 2017  | 0.2.0   | Added the Tinacious Design Light syntax theme. Increased contrast of current line & selected text. |
 | 10 Oct 2016 | 0.1.0   | Initial release                                                                                    |

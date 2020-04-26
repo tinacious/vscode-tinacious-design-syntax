@@ -11,7 +11,7 @@ This theme pack includes 4 themes, 2 dark and 2 light.
 
 ### April 2020
 
-- **Added 2 new themes**  🌈 Feature details and screenshots below. Don't worry, the old themes you know and love are still included, you'll just have to switch back to them. To see the screenshots of the old themes, see [this older readme](https://github.com/tinacious/vscode-tinacious-design-syntax/tree/3758ccde534b40f80e869100bdfdcd657ec2f5a0). The new themes are an enhancement on the old one and include a UI theme and better support for JSON and Markdown.
+- **Added 3 new themes**  🌈 Feature details and screenshots below. Don't worry, the old themes you know and love are still included, you'll just have to switch back to them. To see the screenshots of the old themes, see [this older readme](https://github.com/tinacious/vscode-tinacious-design-syntax/tree/3758ccde534b40f80e869100bdfdcd657ec2f5a0). The new themes are an enhancement on the old one and include a UI theme and better support for JSON and Markdown.
 
 
 ## Usage

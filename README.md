@@ -33,7 +33,15 @@ This syntax theme is available in both dark and light variations.
 
 #### Editor
 
+##### Markdown
+
+![dark syntax theme tinacious design](images/markdown-support.png)
+
+
+##### JavaScript
+
 ![dark syntax theme tinacious design](images/tinacious-syntax-theme-vscode-dark.png)
+
 
 #### Sidebar
 

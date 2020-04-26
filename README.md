@@ -25,9 +25,9 @@ Colours curated by Web and Mobile designer and developer Tina from [Tinacious De
 
 ## Features
 
-- 4 themes! 2 new ones, and the 2 original ones!
-- Dark theme
-- Light theme
+- Dark themes! 🌚
+- Light themes! 🌝
+- 5 themes! 2 new ones, 2 original ones, and 1 high-contrast mod of the original dark
 - JSON support (36 levels of love 🌈)
 - Markdown support
 - Git diff support

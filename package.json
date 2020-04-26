@@ -34,6 +34,11 @@
         "label": "Tinacious Design (Light)  (legacy, 2017)",
         "uiTheme": "vs",
         "path": "./themes/Tinacious-Design-Light.tmTheme"
+      },
+      {
+        "label": "Tinacious Design (High Contrast) (2016)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Tinacious-Design-High-Contrast.tmTheme"
       }
     ]
   },

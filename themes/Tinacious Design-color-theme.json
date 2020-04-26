@@ -443,6 +443,11 @@
     "terminal.background": "#1D1D26",
     "terminal.foreground": "#B3B3D4",
     // "Follow Link" text
-    "textLink.foreground": "#ff3399"
+    "textLink.foreground": "#ff3399",
+
+    "titleBar.activeBackground": "#1D1D26",
+    "titleBar.activeForeground": "#B3B3D4",
+    "titleBar.inactiveBackground": "#1D1D26",
+    "titleBar.inactiveForeground": "#B3B3D4"
   }
 }

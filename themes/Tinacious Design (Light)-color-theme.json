@@ -440,6 +440,11 @@
     // "terminal.background": "#1D1D26",
     "terminal.foreground": "#44425e",
     // "Follow Link" text
-    "textLink.foreground": "#ff3399"
+    "textLink.foreground": "#ff3399",
+
+    "titleBar.activeBackground": "#f8f8ff",
+    "titleBar.activeForeground": "#44425e",
+    "titleBar.inactiveBackground": "#f8f8ff",
+    "titleBar.inactiveForeground": "#44425e"
   }
 }

@@ -255,6 +255,7 @@
       "name": "Keyword",
       "scope": "keyword",
       "settings": {
+        "fontStyle": "bold",
         "foreground": "#FF3399"
       }
     },
@@ -270,7 +271,7 @@
       "name": "Storage type",
       "scope": "storage.type",
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "italic bold",
         "foreground": "#00BFFF"
       }
     },
@@ -423,10 +424,12 @@
     "statusBar.debuggingBackground": "#b12350dd",
     "statusBar.debuggingForeground": "#ffffff",
     //		normal
-    "statusBar.background": "#2c2c3e",
-    "statusBar.foreground": "#00CED1",
+    "statusBar.background": "#ff3399",
+    "statusBar.foreground": "#ffffff",
+    // "statusBar.background": "#2c2c3e",
+    // "statusBar.foreground": "#00CED1",
     //		no folder
-    "statusBar.noFolderBackground": "#ff3399",
+    "statusBar.noFolderBackground": "#CC66FF",
     "statusBar.noFolderForeground": "#ffffff",
     // Terminal
     "terminal.ansiBlack": "#2c2c3e",

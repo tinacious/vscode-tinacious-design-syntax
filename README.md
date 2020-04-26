@@ -18,6 +18,7 @@ Colours curated by Web and Mobile designer and developer Tina from [Tinacious De
 
 - Dark theme
 - Light theme
+- JSON support (11 levels of love 🌈)
 - Markdown support
 - Git diff support
 - Sidebar styles

@@ -4,7 +4,7 @@
 
 **Tinacious Design Syntax** is a syntax theme that uses a bright palette of colours including pink, blue, turquoise, green, purple, and orange.
 
-This theme pack includes 4 themes, 2 dark and 2 light.
+This theme pack includes 5 themes, 3 dark and 2 light.
 
 
 ## 🔆 What's new?

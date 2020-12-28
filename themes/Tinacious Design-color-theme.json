@@ -749,6 +749,9 @@
     //		no folder
     "statusBar.noFolderBackground": "#CC66FF",
     "statusBar.noFolderForeground": "#ffffff",
+    // Tabs
+    "tab.activeBorder": "#f39",
+    // "tab.border": "#000000",
     // Terminal
     "terminal.ansiBlack": "#2c2c3e",
     "terminal.ansiBlue": "#00BFFF",

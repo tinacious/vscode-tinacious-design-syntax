@@ -2,6 +2,9 @@
   "$schema": "vscode://schemas/color-theme",
   "type": "dark",
   "colors": {
+    "activityBar.background": "#050505",
+    "activityBar.foreground": "#fff",
+    "activityBar.inactiveForeground": "#b3b3d4ba",
     "activityBarBadge.background": "#f39",
     "activityBarBadge.foreground": "#fff",
     // Git diffs
@@ -33,7 +36,19 @@
     "statusBar.noFolderBackground": "#7929ae",
     "statusBar.noFolderForeground": "#fff",
 
-    //"activityBar.activeBorder": "#ffffff",
+    "titleBar.activeBackground": "#050505",
+    "titleBar.activeForeground": "#ffffff",
+    "input.background": "#000",
+    "tab.inactiveBackground": "#151515",
+    "tab.activeBorder": "#f39",
+    "tab.border": "#000000",
+
+    "editorGroupHeader.tabsBackground": "#151515",
+    "sideBar.background": "#090909cc",
+    "scrollbarSlider.background": "#1D1D26",
+    "list.activeSelectionBackground": "#b3b3d44e",
+
+    // "activityBar.activeBorder": "#ffffff",
     //"activityBar.background": "#333333",
     //"activityBar.dropBorder": "#ffffff",
     //"activityBar.foreground": "#ffffff",

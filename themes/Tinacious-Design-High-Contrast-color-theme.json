@@ -4,7 +4,9 @@
   "colors": {
     "activityBarBadge.background": "#f39",
     "activityBarBadge.foreground": "#fff",
-
+    // Git diffs
+    "diffEditor.insertedTextBackground": "#05786797",
+    "diffEditor.removedTextBackground": "#b12350dd",
     "editor.background": "#000000",
     "editor.findMatchBackground": "#7929ae",
     "editor.findMatchHighlightBackground": "#302a4e",
@@ -13,8 +15,11 @@
     "editor.rangeHighlightBackground": "#2b2646",
     "editor.selectionBackground": "#30294c",
     "editorCursor.foreground": "#b3b3d4",
+    "editorRuler.foreground": "#b3b3d44e",
     "editorWhitespace.foreground": "#222222",
+
     "peekViewResult.matchHighlightBackground": "#302a4e",
+
     // Status bar
     //		debug
     "statusBar.debuggingBackground": "#b12350dd",
@@ -32,7 +37,6 @@
     //"activityBar.background": "#333333",
     //"activityBar.dropBorder": "#ffffff",
     //"activityBar.foreground": "#ffffff",
-    //"activityBar.inactiveForeground": "#ffffff66",
     //"activityBarBadge.background": "#007acc",
     //"activityBarBadge.foreground": "#ffffff",
     //"badge.background": "#4d4d4d",

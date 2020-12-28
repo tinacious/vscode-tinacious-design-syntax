@@ -8,12 +8,14 @@ const colours = [
   "#00CECA", // turquoise/blue
   "#00BFFF", // blue
   "#8590EC", // indigo
+  // "#B267E6", // indigo, a11y
   "#FE3698", // pink
   "#FF7086", // orangey pink
   "#ffb070", // orange
   "#FCCC66", // yellow
   "#BBCE65", // yellowy green
   "#59D065", // green
+  // "#00D364", // green, a11y
 ];
 
 // Supporting 4 rainbows. If you need more than that, I'm sorry on so many levels. 🙃

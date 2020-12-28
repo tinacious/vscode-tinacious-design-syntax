@@ -114,10 +114,11 @@ I've verified the colour combinations using the tool above but if I've missed an
 ## Changelog
 
 | Date        | Version | Change                                                                                             |
-|:------------|:--------|:---------------------------------------------------------------------------------------------------|
+| :---------- | :------ | :------------------------------------------------------------------------------------------------- |
+| 27 Dec 2020 | 2.4.0   | High-contrast theme support: convert to new JSON format, add rainbow JSON, add UI theme            |
 | 26 Apr 2020 | 2.3.0   | Added high-contrast WCAG 2.0 AA compliant syntax colour theme                                      |
-| 26 Apr 2020 | 2.2.0   | Now with even **more** rainbow JSON! 36 levels.   🌈🌈🌈                                              |
-| 26 Apr 2020 | 2.1.0   | Add support for 11 levels of nested rainbow JSON! 🌈                                                |
+| 26 Apr 2020 | 2.2.0   | Now with even **more** rainbow JSON! 36 levels.   🌈🌈🌈                                     |
+| 26 Apr 2020 | 2.1.0   | Add support for 11 levels of nested rainbow JSON! 🌈                                             |
 | 25 Apr 2020 | 2.0.0   | Add support for Markdown and Git. Sidebar and status bar design.                                   |
 | 5 Mar 2017  | 0.2.0   | Added the Tinacious Design Light syntax theme. Increased contrast of current line & selected text. |
 | 10 Oct 2016 | 0.1.0   | Initial release                                                                                    |

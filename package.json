@@ -6,6 +6,7 @@
   "publisher": "tinaciousdesign",
   "repository": "https://github.com/tinacious/vscode-tinacious-design-syntax",
   "scripts": {
+    "publish": "vsce publish",
     "json": "node ./scripts/generate_json_support.js"
   },
   "engines": {
@@ -53,6 +54,7 @@
   "icon": "icon.png",
   "devDependencies": {
     "generator-code": "^1.2.12",
+    "vsce": "^1.83.0",
     "yo": "^3.1.1"
   }
 }

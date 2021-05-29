@@ -21,6 +21,13 @@
         "foreground": "#FFCC66"
       }
     },
+    {
+      "name": "Template string",
+      "scope": "punctuation.definition.template-expression",
+      "settings": {
+        "foreground": "#FE3698"
+      }
+    },
     // Generated JSON - START
     {
       "name": "JSON Key - Level 0",
@@ -554,10 +561,7 @@
     },
     {
       "name": "User-defined constant",
-      "scope": [
-        "constant.character",
-        "constant.other"
-      ],
+      "scope": ["constant.character", "constant.other"],
       "settings": {
         "foreground": "#CC66FF"
       }
@@ -659,10 +663,7 @@
     },
     {
       "name": "Library class/type",
-      "scope": [
-        "support.type",
-        "support.class"
-      ],
+      "scope": ["support.type", "support.class"],
       "settings": {
         "fontStyle": "italic",
         "foreground": "#00BFFF"

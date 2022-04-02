@@ -727,7 +727,7 @@
     // "list.hoverBackground": "#CC66FF", // light purple
     // "list.hoverBackground": "#00D364", // green
     // "list.hoverBackground": "#00CED1", // blue
-    "list.hoverBackground": "#f39", // pink
+    "list.hoverBackground": "#3B184C", // aubergine
     "list.hoverForeground": "#ffffff",
     "list.inactiveSelectionBackground": "#3d3d56",
     "scrollbarSlider.activeBackground": "#CC66FF",
